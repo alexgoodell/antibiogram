@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sn",
+				"snippet_content"
+			],
+			[
+				"snipp",
+				"snippet-content"
+			],
+			[
+				"sni",
+				"snippet-content"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"snip",
+				"snippetEditor"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"ed",
+				"editSnippets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 1157,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pak",
+		"selected_items":
+		[
+			[
+				"pak",
+				"Package Control: Enable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"date",
+				"InsertDate: Default"
+			],
+			[
+				"snippe",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alexgoodell/code/antibiogram"
+	],
+	"file_history":
+	[
+		"/Users/alexgoodell/code/uganda-model/uganda-model.sublime-project",
+		"/Users/alexgoodell/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/alexgoodell/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/alexgoodell/Library/Application Support/Sublime Text 3/Packages/User/center_comment.sublime-settings",
+		"/Users/alexgoodell/Library/Application Support/Sublime Text 3/Packages/Center Comment/center_comment.sublime-settings",
+		"/Users/alexgoodell/code/single-payer/.gitignore",
+		"/Users/alexgoodell/Library/Application Support/Sublime Text 3/Packages/User/Snippets/tw.sublime-snippet",
+		"/Users/alexgoodell/code/scripts/paperpile-merge.py",
+		"/usr/lib/cron/tabs/alexgoodell",
+		"/Users/alexgoodell/Google Drive/Breifcase/notes/shane.md",
+		"/Users/alexgoodell/Google Drive/Breifcase/notes/cards.md",
+		"/Users/alexgoodell/code/betternote/js/scripts.js",
+		"/etc/hosts",
+		"/Library/Application Support/Adobe/Adobe Photoshop CC 2015/AMT/application.xml",
+		"/Users/alexgoodell/code/resident1/wordpress/wp-content/themes/bulmapress/index.php",
+		"/Users/alexgoodell/code/resident1/wordpress/wp-content/themes/bulmapress/template-parts/content.php",
+		"/Users/alexgoodell/code/resident1/wordpress/wp-content/themes/resident1/index.php",
+		"/Users/alexgoodell/Google Drive/Breifcase/notes/single-payer.md",
+		"/Users/alexgoodell/Library/Application Support/Sublime Text 3/package-list.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "antibiogram.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/code/uganda-model/uganda-model.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
