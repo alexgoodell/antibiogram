@@ -1,5 +1,7 @@
 A simple antibiotic sensitivity chart. This version is aimed at senior medical student / early residents, but is hopefully helpful to a variety of people. Please contribute (especially if you find errors!). 
 
+Featured in the 2019 edition of [TrueLearn's](http://truelearn.com) general surgery question bank.
+
 Also [uploaded to wikipedia](https://commons.wikimedia.org/wiki/File:Antibiotics_coverage_diagram.jpg) for use in relevant [articles](https://en.wikipedia.org/wiki/Broad-spectrum_antibiotic). 
 
 ![antibiotic sensitivity chart](/antibiogram.jpg)
