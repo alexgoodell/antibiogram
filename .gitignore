@@ -21,5 +21,7 @@
 # Visio autosave temporary files
 *.~vsd*
 
+# Misc 
 *.sublime-project
 *.sublime-workspace
+*.afphoto
